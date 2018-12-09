@@ -1,0 +1,24 @@
+# Site settings
+name: LiTong's blog
+email: 2571390564@qq.com
+author: Li Tong
+url: http://github.com/WEBLT/WEBLT.github.io
+github: https://github.com/WEBLT/
+baseurl: ""
+description: Stay hungry,Stay foolish!
+meta_description: 学而不思则罔，思而不学则殆。
+motto: Believe in yourself !
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: WEBLT
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 6787acefbc6b928b74b1c9004cdd9f6d
