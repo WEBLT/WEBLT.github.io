@@ -23,5 +23,5 @@ tag: 教程
 ![/styles/images/02.png]({{ '/styles/images/02.png' | prepend: site.baseurl  }})
 
 # 3、实现代码
-实现代码可点击[https://WEBLT.github.io/](https://WEBLT.github.io/)
+实现代码可点击[https://github.com/WEBLT/WEBLT.github.io/](github.com/WEBLT/WEBLT.github.io/)
 
